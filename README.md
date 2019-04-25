@@ -1,16 +1,20 @@
-# clock_app
+# Complex UI in  <img src='http://sovitpoudel.com.np/wp-content/uploads/2019/01/flutter.png' height='30' width='30' align='top'>
 
-A new Flutter project.
+Get the complete code for a complex UI which includes **Tabs**, **An Analog Clock**, **Custom Graph**, **Custom Buttons** and much more.
 
-## Getting Started
+See the video where I explain more about the project [here]().
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/layout.gif'>
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/flutter_01.png'>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/flutter_01.png'>
+
+## Getting Started With Flutter
+
+ - [Flutter Website](https://flutter.dev/)
+
+
+ 
