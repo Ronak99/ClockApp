@@ -6,11 +6,11 @@ See the video where I explain more about the project [here]().
 
 ## Screenshots
 
-<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/layout.gif' width='35%'>
+<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/layout.gif' width='20%'>
 
-<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/flutter_01.png' width='35%'>
+<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/flutter_01.png' width='20%'>
 
-<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/flutter_01.png' width='35%'>
+<img src='https://github.com/Ronak99/ClockApp/blob/master/screenshots/flutter_01.png' width='20%'>
 
 ## Getting Started With Flutter
 
