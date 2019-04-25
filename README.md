@@ -2,7 +2,7 @@
 
 Get the complete code for a complex UI which includes **Tabs**, **An Analog Clock**, **Custom Graph**, **Custom Buttons** and much more.
 
-See the video where I explain more about the project [here]().
+See the video where I explain more about the project [here](https://youtu.be/TnAaCyPzVuY).
 
 ## Screenshots
 
